@@ -1,6 +1,6 @@
 # Transfer Learning & Latent Representation Clustering Pipeline
 
-[Watch the 10-Minute Video Presentation Here](YOUR_YOUTUBE_LINK)
+[Watch the 10-Minute Video Presentation Here](https://youtu.be/6H6r_K37kAI)
 
 This repository implements an unsupervised machine learning pipeline to classify image data using deep feature extraction and latent space clustering. By leveraging transfer learning, the pipeline extracts expressive feature descriptors from unlabeled images, applies dimensionality reduction with whitening, and clusters the latent representations to achieve near-supervised accuracy. 
 
